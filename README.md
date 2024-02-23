@@ -2,6 +2,7 @@
 - Chúng em đã sử dụng MERN (MongoDB, ExpressJS, ReactJS và NodeJS) cho dự án này.
 - Các bước cấu hình
 Cài đặt các thư viện cần thiết (sử dụng Terminal):
+
 $ cd Project_Movie
 
 $ npm install
