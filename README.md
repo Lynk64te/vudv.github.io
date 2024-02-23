@@ -4,15 +4,12 @@
 Cài đặt các thư viện cần thiết (sử dụng Terminal):
 $ cd Project_Movie
 $ npm install
-
 $ cd backend
 $ npm install
-
 $ cd..
-
 $ cd frontend
 $ npm install
-
+$cd..
 - Tạo dotenv file:
 Tạo một .env file trong thư mục backend với nội dung sau
 MONGODB_PASSWORD=Password
