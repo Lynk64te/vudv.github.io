@@ -23,5 +23,6 @@ MONGODB_PASSWORD=Password
 SECRET=Anythingyouwant
 - Tạo một database MongoDB và thay thế đường dẫn của database vừa tạo cho đường dẫn cũ trong file app.js
 - Chạy lần lượt lệnh sau ở cả backend và frontend
+
 $ npm start
 - Lúc này một trang web sẽ được mở lên và có thể trải nghiệm
