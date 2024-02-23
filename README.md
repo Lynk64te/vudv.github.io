@@ -19,6 +19,7 @@ $ npm install
 $cd..
 - Tạo dotenv file:
 Tạo một .env file trong thư mục backend với nội dung sau
+
 MONGODB_PASSWORD=Mật khẩu database
 
 SECRET_KEY=Mật khẩu bạn muốn
